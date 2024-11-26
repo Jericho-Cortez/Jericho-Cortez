@@ -1,26 +1,25 @@
-# Jericho CORTEZ - Profil GitHub
+# Jericho CORTEZ - GitHub Profile
 
-## 👋 Bonjour, je suis Jericho !
+## 👋 Hello, I'm Jericho!
 
-Je suis actuellement en formation à l'école **La Plateforme**, spécialisée dans la cybersécurité. Passionné par ce domaine, j'ai choisi de me lancer dans cette voie pour protéger les systèmes informatiques et renforcer leur sécurité.
+I am currently in training at **La Plateforme** school, specializing in cybersecurity. Passionate about this field, I decided to pursue this path to protect computer systems and enhance their security.
 
-En dehors de mes études, je suis également développeur web et j'aime créer des projets qui me permettent d'explorer de nouvelles technologies et d'améliorer mes compétences.
+Outside of my studies, I am also a web developer, and I enjoy creating projects that allow me to explore new technologies and improve my skills.
 
-## 🎯 Mon objectif
-Mon objectif est de devenir un expert en **cybersécurité** et d'appliquer mes connaissances pour aider à sécuriser les infrastructures et les réseaux informatiques. En parallèle, je continue de développer mes compétences en **développement web** pour créer des sites et des applications fonctionnels et sécurisés.
+## 🎯 My Goal
+My goal is to become an expert in **cybersecurity** and apply my knowledge to help secure infrastructures and computer networks. At the same time, I continue to develop my skills in **web development** to create functional and secure websites and applications.
 
-## 🔧 Compétences
-- **Cybersécurité** : Analyse de vulnérabilités, gestion des risques, protection des données.
-- **Développement web** : HTML, CSS, JavaScript, PHP, React, Node.js.
-- **Outils** : Git, GitHub, Docker, Kali Linux, Burp Suite.
+## 🔧 Skills
+- **Cybersecurity**: Vulnerability analysis, risk management, data protection.
+- **Web Development**: HTML, CSS, JavaScript, PHP, React, Node.js.
+- **Tools**: Git, GitHub, Docker, Kali Linux, Burp Suite.
 
-## 📚 Mes formations et certifications
-- Formation en **cybersécurité** à l'école **La Plateforme**.
-- Certification **OWASP** en développement sécurisé.
-- Cours en **développement web** (HTML, CSS, JavaScript, React, Node.js).
+## 📚 My Training and Certifications
+- **Cybersecurity** training at **La Plateforme** school.
+- **OWASP** certification in secure development.
+- **Web development** courses (HTML, CSS, JavaScript, React, Node.js).
 
 ## 💬 Contact
-- **Email** : [jbcderby27@gmail.com](mailto:jbcderby27@gmail.com)
+- **Email**: [jbcderby27@gmail.com](mailto:jbcderby27@gmail.com)
 
-N'hésitez pas à me contacter pour toute collaboration ou question. Je suis toujours ouvert à de nouveaux projets et à échanger avec d'autres passionnés !
-
+Feel free to reach out for any collaboration or questions. I'm always open to new projects and connecting with other enthusiasts!
