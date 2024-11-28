@@ -23,3 +23,8 @@ My goal is to become an expert in **cybersecurity** and apply my knowledge to he
 - **Email**: [jbcderby27@gmail.com](mailto:jbcderby27@gmail.com)
 
 Feel free to reach out for any collaboration or questions. I'm always open to new projects and connecting with other enthusiasts!
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jericho-Cortez&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jericho-Cortez&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jericho-Cortez&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
