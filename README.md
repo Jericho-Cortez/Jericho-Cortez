@@ -62,7 +62,7 @@ Je construis des infrastructures, j'automatise des processus et j'explore la sé
 | ☁️ **AWS Architect** | Labs multi-jobs cloud (EC2, ECS, CloudFront) | AWS · IAM · Terraform |
 | 🤖 **Toyceptron** | Implémentation d'un réseau de neurones from scratch | Python · NumPy |
 | 🖥️ **AD Enterprise** | Active Directory complet en lab virtualisé | Windows Server · Azure AD |
-| ⚙️ **HexaLab** | Infra réseau complète simulée | Debian · Docker · Ansible |
+| ⚙️ **HexaLab** | Infra réseau simulée | Debian · Docker |
 
 ---
 
