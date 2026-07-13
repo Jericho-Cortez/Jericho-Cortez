@@ -32,9 +32,11 @@ Je construis des infrastructures, j'automatise des processus et j'explore la sé
 
 ### 🖥️ Système & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-Debian%20%7C%20Ubuntu%20%7C%20Rocky-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Swarm%20%7C%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-k3s%20%7C%20k8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-Proxmox%20%7C%20VirtualBox-607078?style=flat-square&logo=vmware)
 ![Windows](https://img.shields.io/badge/Windows-PowerShell%20%7C%20WSL2-0078D6?style=flat-square&logo=windows)
+![TrueNAS](https://img.shields.io/badge/Storage-TrueNAS%20Scale-0095D5?style=flat-square&logo=truenas)
 
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20ECS%20%7C%20CloudFront-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -58,11 +60,30 @@ Je construis des infrastructures, j'automatise des processus et j'explore la sé
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
+| ☸️ **[Kubernetes](https://github.com/Jericho-Cortez/Kubernetes)** | Déploiement et orchestration de clusters k8s/k3s | Kubernetes · YAML · Helm |
+| 🤖 **[RAG](https://github.com/Jericho-Cortez/RAG)** | Système de Retrieval-Augmented Generation | Python · LLM · Vector DB |
+| 🐳 **[Swarm](https://github.com/Jericho-Cortez/Swarm)** | Architecture Docker Swarm multi-nœuds | Docker · Swarm · Compose |
+| 🔐 **[crypto-vibeness](https://github.com/Jericho-Cortez/crypto-vibeness)** | Outils et challenges cryptographie | Python · CTF |
+| 🌐 **[NexusVirtualis](https://github.com/Jericho-Cortez/NexusVirtualis)** | Infrastructure réseau virtualisée complète | Debian · Docker · VMs |
 | 🔬 **SOC Lab** | Infrastructure de monitoring SIEM complète | Wazuh · Zabbix · rsyslog · Docker |
 | ☁️ **AWS Architect** | Labs multi-jobs cloud (EC2, ECS, CloudFront) | AWS · IAM · Terraform |
-| 🤖 **Toyceptron** | Implémentation d'un réseau de neurones from scratch | Python · NumPy |
+| 🤖 **[Toyceptron](https://github.com/Jericho-Cortez/Toyceptron)** | Implémentation d'un réseau de neurones from scratch | Python · NumPy |
 | 🖥️ **AD Enterprise** | Active Directory complet en lab virtualisé | Windows Server · Azure AD |
-| ⚙️ **HexaLab** | Infra réseau simulée | Debian · Docker |
+| ⚙️ **[HexaLab_V1](https://github.com/Jericho-Cortez/HexaLab_V1)** | Infra réseau simulée v1 | Debian · Docker |
+
+---
+
+## 🗂️ Autres repos notables
+
+| Repo | Description | Langage |
+|------|-------------|---------|
+| [PowerShell](https://github.com/Jericho-Cortez/PowerShell) | Scripts d'administration Windows | PowerShell |
+| [TrueNAS-Scale](https://github.com/Jericho-Cortez/TrueNAS-Scale) | Config & guides TrueNAS Scale | — |
+| [nanoshell](https://github.com/Jericho-Cortez/nanoshell) | Mini shell UNIX implémenté en C | C |
+| [clawd-bot-wsl2-gtx1650-guide](https://github.com/Jericho-Cortez/clawd-bot-wsl2-gtx1650-guide) | Guide GPU AI sous WSL2 | — |
+| [SystemeScriptSecurite](https://github.com/Jericho-Cortez/SystemeScriptSecurite) | Scripts sécurité système | Bash/Python |
+| [voip](https://github.com/Jericho-Cortez/voip) | Lab VoIP (Asterisk / SIP) | — |
+| [nas_debian](https://github.com/Jericho-Cortez/nas_debian) | NAS maison sous Debian | — |
 
 ---
 
