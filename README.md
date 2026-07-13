@@ -56,7 +56,7 @@ Je construis des infrastructures, j'automatise des processus et j'explore la sé
 
 ---
 
-## 🚀 Projets en cours
+## ✅ Projets réalisés
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
